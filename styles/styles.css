@@ -1,3 +1,14 @@
 .main-container {
   display: flex;
 }
+
+.contents-container {
+  padding-top: 4%;
+  padding-left: 10%;
+  padding-right: 12%;
+
+}
+
+.header-container {
+  padding-bottom: 20%;
+}
