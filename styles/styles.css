@@ -42,3 +42,19 @@ h3 {
   font-size: 20px;
   color: hsl(0, 93%, 68%);
 }
+
+.email-submission-container {
+  width: 400px;
+  max-width: 100%;
+  position: relative;
+}
+
+.email-input {
+  width: 100%;
+}
+
+.submit-email-button {
+  position: absolute;
+  right: 0;
+  top: 0;
+}
